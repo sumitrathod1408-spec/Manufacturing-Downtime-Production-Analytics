@@ -173,10 +173,8 @@ Manufacturing-Downtime-Production-Analytics/
 ## 📸 Dashboard Preview
 
 Add your Power BI dashboard screenshot here:
+<img width="1151" height="651" alt="Manf Dashboard" src="https://github.com/user-attachments/assets/e44e93f7-306d-4acc-b701-7da0139dc1e3" />
 
-```markdown
-![Manufacturing Downtime Dashboard](Images/dashboard.png)
-```
 
 ---
 
